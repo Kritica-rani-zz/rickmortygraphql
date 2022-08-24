@@ -20,7 +20,6 @@ export const useCharacter =(id)=>{
             id,
         },
     });
-    console.log("id",id)
     return{
         data,
         error,
