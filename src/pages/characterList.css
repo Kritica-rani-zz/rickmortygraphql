@@ -1,0 +1,20 @@
+.main_container{
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: 1rem;
+}
+.description_container{
+   box-shadow: 1px 1px 1px 1px wheat;
+   padding: 10px;
+   height: auto;
+   width: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.description{
+    align-items: center;
+}
